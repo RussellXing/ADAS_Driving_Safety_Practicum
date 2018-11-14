@@ -2,11 +2,16 @@
 
 by *Guangyu Xing, Jiwei Zeng, Peihsuan Hsia, Weihao Zeng, Xiancaozhi Yi*
 
-The dataset we need is :
+Updated Date: **11/13/2018**
+
+* Dataset
+The raw data is from the **NHTSA** website. [http://www-odi.nhtsa.dot.gov/downloads/folders/Complaints/FLAT_CMPL.zip]
+
+We divided and pre-process the datasets into two files
 1. ADAS_File_5_updated.csv (*training dataset*)
 2. data_unlabelled_xing.csv (*test dataset*)
 
-The Python packages that should be installed ahead of running the Notebook:
+* Python packages:
 1. pandas
 2. numpy
 3. sklearn
