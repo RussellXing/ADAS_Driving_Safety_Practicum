@@ -11,7 +11,9 @@ We divided and pre-process the datasets into two files
 1. ADAS_File_5_updated.csv (*training dataset*)
 2. data_unlabelled_xing.csv (*test dataset*)
 
-* Python packages:
+Please install the Python packages below before run the notebook file "**practicum_v12.ipynb**".
+
+* **Python packages:**
 1. pandas
 2. numpy
 3. sklearn
